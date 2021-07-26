@@ -23,4 +23,6 @@ By using Api from /rest.coinapi.io/ the app can track all these cureencies :
   'SGD',
   'USD',
   'ZAR'
-![bitcoin](https://user-images.githubusercontent.com/56093885/127059084-0a8ec656-efec-4eef-b8e0-e879a547f8f1.JPG)
+
+
+![bitcoin](https://user-images.githubusercontent.com/56093885/127059454-dc210296-bf76-4ba1-8b81-927093e76a53.JPG)
